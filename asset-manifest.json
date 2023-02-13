@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whos-at-the-terrace/static/css/main.1d4b2436.css",
+    "main.js": "/whos-at-the-terrace/static/js/main.72988797.js",
+    "static/js/787.7adf808f.chunk.js": "/whos-at-the-terrace/static/js/787.7adf808f.chunk.js",
+    "index.html": "/whos-at-the-terrace/index.html",
+    "main.1d4b2436.css.map": "/whos-at-the-terrace/static/css/main.1d4b2436.css.map",
+    "main.72988797.js.map": "/whos-at-the-terrace/static/js/main.72988797.js.map",
+    "787.7adf808f.chunk.js.map": "/whos-at-the-terrace/static/js/787.7adf808f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4b2436.css",
+    "static/js/main.72988797.js"
+  ]
+}
