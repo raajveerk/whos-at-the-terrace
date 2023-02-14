@@ -1,0 +1,36 @@
+@keyframes opacityTransitionIn {
+    from{
+        opacity: 0;
+        display: none;
+    }
+    to{
+        display: flex;
+        opacity: 1;
+    }
+}
+
+@keyframes scaleTransitionOut {
+    from{
+        scale: 1;
+        display: flex;
+    }
+    to{
+        display: none;
+        scale: 0;
+    }
+}
+
+
+
+.dateTimeSec{
+    animation: opacityTransitionIn 0.5s ease-in;
+}
+
+.bookBtn{
+    animation: opacityTransitionIn 0.5s ease-in;
+}
+
+// .schedBtn{
+//     animation: transformY 0.5s ease-in;
+// }
+
