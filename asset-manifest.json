@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/whos-at-the-terrace/static/css/main.1d4b2436.css",
-    "main.js": "/whos-at-the-terrace/static/js/main.72988797.js",
+    "main.css": "/whos-at-the-terrace/static/css/main.8fb9707f.css",
+    "main.js": "/whos-at-the-terrace/static/js/main.c7da0919.js",
     "static/js/787.7adf808f.chunk.js": "/whos-at-the-terrace/static/js/787.7adf808f.chunk.js",
     "index.html": "/whos-at-the-terrace/index.html",
-    "main.1d4b2436.css.map": "/whos-at-the-terrace/static/css/main.1d4b2436.css.map",
-    "main.72988797.js.map": "/whos-at-the-terrace/static/js/main.72988797.js.map",
+    "main.8fb9707f.css.map": "/whos-at-the-terrace/static/css/main.8fb9707f.css.map",
+    "main.c7da0919.js.map": "/whos-at-the-terrace/static/js/main.c7da0919.js.map",
     "787.7adf808f.chunk.js.map": "/whos-at-the-terrace/static/js/787.7adf808f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d4b2436.css",
-    "static/js/main.72988797.js"
+    "static/css/main.8fb9707f.css",
+    "static/js/main.c7da0919.js"
   ]
 }
