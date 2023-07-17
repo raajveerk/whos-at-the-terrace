@@ -16,3 +16,5 @@ react-router
 react-icons
 sass
 gh-pages
+
+View the latest build here: https://raajveerk.github.io/whos-at-the-terrace/
